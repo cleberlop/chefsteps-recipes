@@ -1,0 +1,10 @@
+.home-buttons
+  .recipes-logo
+    | Recipes
+  button.large-button.all-recipes((click)="goToPage(recipesPage)")
+    .button-text
+      | All Recipes
+  button.large-button.favorite-recipes((click)="goToPage(recipesPage, true)")
+    .button-text
+      | My Favorites
+

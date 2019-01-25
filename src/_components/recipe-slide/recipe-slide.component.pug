@@ -1,0 +1,17 @@
+ion-slide.recipe-slide
+  like-button-component([likeStatus]="likeStatus", (like)="emitLike()")
+  recipe-image-component([recipe]="recipe")
+  .recipe-content
+    .recipe-content-inner
+      .recipe-title
+        | {{recipe.title}}
+      .recipe-description
+        | {{recipe.description}}
+      .recipe-ingredients
+        .recipe-subtitle
+          | Ingredients
+        recipe-ingredient-component(*ngFor="let ingredient of recipe.ingredients", [ingredient]="ingredient")
+      .recipe-steps
+        .recipe-subtitle
+          | Instructions
+        recipe-step-component(*ngFor="let step of recipe.steps; let i = index", [step]="step", [position]="i + 1" )

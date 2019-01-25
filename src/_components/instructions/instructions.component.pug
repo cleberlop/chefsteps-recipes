@@ -1,0 +1,7 @@
+.instructions(*ngIf="!readInstructions")
+  .instructions-text.welcome-text
+    | Welcome!
+  .instructions-text
+    | To go to next recipe just swipe right
+  button((click)="setReadInstructions()", ion-button, outline, color="dark")
+    | Ok

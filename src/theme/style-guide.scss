@@ -1,0 +1,31 @@
+//  Index:
+//
+//  1. Global
+//  2. Colors
+//  3. Typography
+//  4. Button
+
+//  1. Global
+$recipe-slide-padding: 25px;
+
+//  2. Global Colors
+
+$color-primary: rgb(255, 103, 77);
+$color-background: #ffffff;
+$color-image-placeholder: #939393;
+$color-shadow: #cccccc;
+$color-like: #ff0000;
+$color-unlike: #d7d7d7;
+$color-black-shadow: rgba(0, 0, 0, 0.8);
+
+//  3. Typography
+$color-text-primary: #43413f;
+$font-size-primary: 12px;
+$color-text-secondary: #555555;
+$color-text-white: #ffffff;
+$text-white-shadow: 0 0 19px #525252;
+$recipe-line-height: 24px;
+
+//  4. Button
+$button-action-box-shadow: 0px 0px 15px 0px #43413f33;
+$button-action-background-color: rgba(255, 255, 255, 0.9);

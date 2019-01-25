@@ -1,3 +1,24 @@
 page-home {
-
+  .recipes-logo {
+    width: 100vw;
+    color: $color-text-white;
+    font-size: 67px;
+    font-weight: 700;
+    font-style: italic;
+    @extend .center-x;
+    margin-bottom: 70px;
+    text-shadow: $text-white-shadow;
+  }
+  .home-buttons {
+    height: 100vh;
+    width: 100vw;
+    padding: 30px;
+    @extend .center;
+    flex-direction: column;
+    background-color: $color-primary;
+    background-image: url('https://d3awvtnmmsvyot.cloudfront.net/api/file/z1aKFn8oSzW02oCVYAVC');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
 }

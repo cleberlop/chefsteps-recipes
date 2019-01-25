@@ -1,0 +1,334 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "title": "Hot-to-Trot Tamales",
+      "description": "There are about as many variations on tamales as there are people who love them—which is to say a lot. A traditional dish in Mexico and many parts of Central and South America, tamales consist of masa-based dough filled with any number of meats, cheeses, chilies, vegetables, and seasonings, wrapped into perfect little corn-husk packages, and steamed. If you could gift wrap dinner, it’d look like a tamale. And who doesn’t like getting presents? \n\nTamales are phenomenally versatile, and will quite literally mold themselves around whatever filling you like. We’ve got oodles of suggestions, but consider this recipe a launchpad to experiment with fillings and toppings to your heart’s delight.\n\nAnd while we’d never say no to a taco party, may we humbly suggest mixing up your next taco party with a tamale party? Invite some friends to help assemble, then unwrap, smother in all the toppings, and get down to partying.",
+      "imgURL": "https://d3awvtnmmsvyot.cloudfront.net/api/file/iU019x8ZTQm7pxQ89wkv",
+      "ingredients": [
+        {
+          "name": "Maseca Tamal masa mix",
+          "quantity": "560 g"
+        },
+        {
+          "name": "Kosher salt",
+          "quantity": "12 g"
+        },
+        {
+          "name": "Baking powder",
+          "quantity": "9 g"
+        },
+        {
+          "name": "Chicken stock",
+          "quantity": "870 g"
+        },
+        {
+          "name": "Lard",
+          "quantity": "325 g"
+        },
+        {
+          "name": "Filling of choice, as needed"
+        },
+        {
+          "name": "Toppings, such as salsa, cotija, sour cream, herbs, lime wedges, optional, as needed"
+        }
+      ],
+      "steps": [
+        {
+          "step": "Soak husks"
+        },
+        {
+          "step": "Make the masa mixture"
+        },
+        {
+          "step": "Whip the lard"
+        },
+        {
+          "step": "Add the masa mixture to the whipped lard"
+        },
+        {
+          "step": "Assemble the tamales"
+        },
+        {
+          "step": "Unwrap and serve"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "No-Nonsense Naan",
+      "description": "Naan is the stuff carb dreams are made of. A soft, enriched dough, mildly salty and slightly charred, flash-cooked for big bubbles with a crispy exterior and pillowy insides, it’s the most indulgent utensil we’ve ever encountered. \n\nOriginating in India and Pakistan, naan takes a richer turn from other flatbreads. We leaned into the tangy richness of yogurt to enrich ours, which complements a wide variety of dishes. Traditionally, balls of dough are smacked up against the sides of a tandoor oven, but if you don’t have one of those at your disposal, don’t worry. We’ve got three alternate, more accessible, cooking methods for you to try out. \n\nNo matter which method you choose, the end result is a tearable, shareable, eminently usable bread—and the best way we know of to scoop up curries, sauces, and chutneys. You may never use a fork again.",
+      "imgURL": "https://d3awvtnmmsvyot.cloudfront.net/api/file/z1aKFn8oSzW02oCVYAVC",
+      "ingredients": [
+        {
+          "name": "Plain Greek-style full-fat yogurt",
+          "quantity": "225 g"
+        },
+        {
+          "name": "Water",
+          "quantity": "225 g"
+        },
+        {
+          "name": "Sugar",
+          "quantity": "14 g"
+        },
+        {
+          "name": "Active dry yeast",
+          "quantity": "14 g"
+        },
+        {
+          "name": "Bread flour",
+          "quantity": "550 g"
+        },
+        {
+          "name": "Salt",
+          "quantity": "8 g"
+        },
+        {
+          "name": "Cooking oil, as needed"
+        },
+        {
+          "name": "Optional garnishes: Butter, garlic, turmeric root, fresh herbs (such as curry leaves or cilantro), as needed"
+        }
+      ],
+      "steps": [
+        {
+          "step": "Heat yogurt and water, add to sugar and yeast"
+        },
+        {
+          "step": "Mix the dough"
+        },
+        {
+          "step": "Rest the dough"
+        },
+        {
+          "step": "Portion the dough"
+        },
+        {
+          "step": "Flatten each piece; prep your chosen cooking method"
+        },
+        {
+          "step": "Option 1: Stovetop"
+        },
+        {
+          "step": "Option 2: Oven"
+        },
+        {
+          "step": "Option 3: Grill"
+        },
+        {
+          "step": "Garnish and serve"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Salmon & Opal Apple Poke",
+      "description": "Close your eyes. You’re on a beach. The sun warms your face. With an icy mai tai in one hand and a pair of chopsticks in the other, you dig in to your oceanside lunch. A sour pop, a juicy smack, and a tinge of heat builds as you eat. Rich salmon and creamy avocado anchor this aromatic, flavor-packed poke—the now-ubiquitous raw-fish chopped salad from Hawaii. This dish was born out of a craving for something light with plenty of depth. A pleasant crunch and sweet tang from Opal apples gives our recipe a refreshing bite. Make it for someone you want to take on vacation—and don’t forget the mai tai.",
+      "imgURL": "https://d3awvtnmmsvyot.cloudfront.net/api/file/cNLUOuwmQZquWimSpaZQ",
+      "ingredients": [
+        {
+          "name": "Coconut vinegar, 1 tbsp",
+          "quantity": "12 g"
+        },
+        {
+          "name": "Coconut aminos, 1 tbsp",
+          "quantity": "16 g"
+        },
+        {
+          "name": "Pure sesame oil, 3 tsp",
+          "quantity": "6 g"
+        },
+        {
+          "name": "Finely minced shallot, 1 tbsp or ½ small shallot",
+          "quantity": "20 g"
+        },
+        {
+          "name": "Thinly sliced green onions, 2 green onions (just the greens), 5 g reserved for garnish",
+          "quantity": "15 g"
+        },
+        {
+          "name": "Diced salmon, 5 oz",
+          "quantity": "150 g"
+        },
+        {
+          "name": "Diced avocado, ½ small avocado",
+          "quantity": "100 g"
+        },
+        {
+          "name": "Opal apple (or your favorite apple), small diced, ½ apple or 1 cup",
+          "quantity": "70 g"
+        },
+        {
+          "name": "Minced Thai bird chilies or Fresno chilis, ½ tbsp",
+          "quantity": "4 g"
+        },
+        {
+          "name": "Toasted premium white sesame seeds, ½ tsp",
+          "quantity": "1.5 g"
+        },
+        {
+          "name": "Toasted premium black sesame seeds, ½ tsp",
+          "quantity": "1.5 g"
+        },
+        {
+          "name": "Cilantro leaves, optional for garnish, as needed"
+        },
+        {
+          "name": "Fresh-squeezed lime juice, ½ lime",
+          "quantity": "25 g"
+        },
+        {
+          "name": "Sea salt and black pepper, to taste, as needed"
+        }
+      ],
+      "steps": [
+        {
+          "step": "Mix dressing"
+        },
+        {
+          "step": "Combine diced ingredients"
+        },
+        {
+          "step": "Assemble your poke"
+        },
+        {
+          "step": "Enjoy!"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Pumpkin Pie in a Jar",
+      "description": "A new fall tradition is born. Presented in sweet little mason jars, these personal pumpkin pies will delight your friends and family with silky texture and lively flavor. And because you can make them in advance, you can relax knowing dessert will be an easy-to-serve delight.",
+      "imgURL": "https://d3awvtnmmsvyot.cloudfront.net/api/file/K0iR9k21TjeJgLydzv1F",
+      "ingredients": [
+        {
+          "name": "Pumpkin puree",
+          "quantity": "425 g"
+        },
+        {
+          "name": "Granulated sugar",
+          "quantity": "165 g"
+        },
+        {
+          "name": "Ground cinnamon",
+          "quantity": "2.5 g"
+        },
+        {
+          "name": "Nutmeg",
+          "quantity": ".5 g"
+        },
+        {
+          "name": "Ground ginger",
+          "quantity": "1 g"
+        },
+        {
+          "name": "Ground cloves",
+          "quantity": ".5 g"
+        },
+        {
+          "name": "Ground allspice",
+          "quantity": ".5 g"
+        },
+        {
+          "name": "Kosher salt",
+          "quantity": "2 g"
+        },
+        {
+          "name": "Whole Eggs, about 2",
+          "quantity": "110 g"
+        },
+        {
+          "name": "One 12-oz can evaporated milk",
+          "quantity": "370 g"
+        }
+      ],
+      "steps": [
+        {
+          "step": "Preheat Joule to [c 85]"
+        },
+        {
+          "step": "Add those eggs"
+        },
+        {
+          "step": "Add evaporated milk"
+        },
+        {
+          "step": "Strain (optional)"
+        },
+        {
+          "step": "Transfer to the jars; seal"
+        },
+        {
+          "step": "Cook them!"
+        },
+        {
+          "step": "Chill"
+        },
+        {
+          "step": "Serve!"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Salmon Mi-Cuit",
+      "description": "A rough translation of the French phrase *mi-cuit* is “half-cooked,” but that utterly fails to express the decadent texture of this salmon. A combination of heat and salt work in concert to ensure that although served chilled, this salmon is anything but raw.\n\nAs a wave of concentrated dissolved salt (enough to raise the salinity above 2 percent) permeates the flesh, various proteins in muscle fibers begin to unravel and entangle. This is curing, and it’s analogous to increasing the temperature of flesh with heat. Salt or heat alone can take meats and seafood from raw to cured or raw to cooked (either will denature proteins and cause them to gel), but when they’re used together, you can get the same effect with less salt and a lower temperature. The result is a remarkable texture. \n\nOne subtlety of this recipe, which often goes unnoticed, is the need to chill the salmon for at least six hours before serving. The chloride ions from the salt are still diffusing toward equilibrium after the sous vide–cooking step, and this chilling step allows the texture to fully develop.\n\nFinally, cooking in vacuum-sealed packaging has the benefit of keeping the salmon impeccably fresh by preventing damaging oxidation. If you don’t have access to a vacuum chamber sealer, don’t fret: we’ve got [link https://www.chefsteps.com/activities/simple-sous-vide-packaging a hack] that will help you achieve similar results without all the equipment.\n\nProvided that you store the salmon at a temperature below [c 5], the combination of low-temperature cooking, mild curing with salt, and oxygen-free packaging will keep your fish fresh for 10 days or more. This makes it a delicious and versatile ingredient to keep around for a quick, healthy dish such as our [Salmon 104 °F](https://www.chefsteps.com/activities/salmon-104-f).",
+      "imgURL": "https://d3awvtnmmsvyot.cloudfront.net/api/file/Fovmtk3fR8qeGoviWygJ",
+      "ingredients": [
+        {
+          "name": "Water",
+          "quantity": "1.6 kg"
+        },
+        {
+          "name": "Salt",
+          "quantity": "160 g"
+        },
+        {
+          "name": "Sugar",
+          "quantity": "80 g"
+        },
+        {
+          "name": "Salmon loin, skinless",
+          "quantity": "400 g"
+        },
+        {
+          "name": "Olive oil, as needed"
+        },
+        {
+          "name": "Ice water, for ice bath, as needed"
+        }
+      ],
+      "steps": [
+        {
+          "step": "Scale ingredients"
+        },
+        {
+          "step": "Make brine"
+        },
+        {
+          "step": "Prepare salmon"
+        },
+        {
+          "step": "Brine salmon"
+        },
+        {
+          "step": "Remove salmon from brine"
+        },
+        {
+          "step": "Vacuum-package salmon or seal in a plastic bag using another method"
+        },
+        {
+          "step": "Cook sous vide at 104 °F / 40 °C for 60 minutes"
+        },
+        {
+          "step": "Chill immediately; refrigerate"
+        },
+        {
+          "step": "Slice; reserve"
+        }
+      ]
+    }
+  ]
+}

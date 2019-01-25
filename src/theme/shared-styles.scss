@@ -1,0 +1,66 @@
+//Alignment
+
+.center {
+  //this will center horizontal and vertical
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.center-y {
+  //centers vertically
+  display: flex;
+  align-items: center;
+}
+
+.center-x {
+  //centers horizontally
+  display: flex;
+  justify-content: center;
+}
+
+//buttons
+
+.large-button {
+  position: relative;
+  color: $color-text-white;
+  font-size: 30px;
+  height: 100px;
+  margin: 15px 0;
+  padding: 0;
+  border: 2px solid $color-text-white;
+  width: 100%;
+  background: #00000047;
+  cursor: pointer;
+  &:active {
+    background: #0000007b;
+  }
+  .button-text {
+    color: $color-text-white;
+    font-weight: bold;
+    text-shadow: 0 0 20px black;
+  }
+}
+
+.action-button {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  box-shadow: $button-action-box-shadow;
+  color: $color-text-primary;
+  background: $color-background;
+}
+
+//global
+
+.no-content {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: $color-text-secondary;
+  font-size: 18px;
+  padding: 50px;
+  text-align: center;
+}

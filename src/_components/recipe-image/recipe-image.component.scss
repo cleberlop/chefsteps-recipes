@@ -1,0 +1,21 @@
+recipe-image-component {
+  .image-container {
+    height: 280px;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: $color-image-placeholder;
+    img {
+      height: 100%;
+      width: 100%;
+      object-fit: cover;
+      object-position: top center;
+      z-index: 1;
+    }
+    .images-icon {
+      font-size: 50px;
+      color: $color-text-primary;
+    }
+  }
+}

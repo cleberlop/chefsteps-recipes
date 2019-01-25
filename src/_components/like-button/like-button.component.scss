@@ -1,0 +1,14 @@
+like-button-component {
+  .like-button {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    @extend .action-button;
+    color: $color-unlike;
+    font-size: 20px;
+    z-index: 30;
+    &.active {
+      color: $color-like;
+    }
+  }
+}

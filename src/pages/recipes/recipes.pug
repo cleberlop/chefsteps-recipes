@@ -1,0 +1,9 @@
+instructions-component
+home-button-component
+ion-slides(*ngIf="recipes && recipes.length")
+  recipe-slide-component(*ngFor="let recipe of recipes", [recipe]="recipe", [likeStatus]="likes[recipe.id]", (like)="like(recipe.id)")
+.no-content(*ngIf="!recipes || !recipes.length")
+  .no-favorites(*ngIf="favoritesOnly ; else noRecipes")
+    | You don't have any favorites yet. Start liking recipes to create a favorites list
+  ng-template(#noRecipes)
+    | No recipes found
